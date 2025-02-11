@@ -1,0 +1,3 @@
+[submodule "sum"]
+	path = sum
+	url = https://github.com/tbulavskij/sum
